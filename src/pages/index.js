@@ -77,6 +77,9 @@ export default function Home() {
         <div className="container flex flex-wrap mx-auto space-y-4 justify-end items-end sm:space-y-0">
           <ul className="flex flex-wrap space-x-3 items-end font-semibold">
             <li>
+              <a target="_blank" href="https://github.com/YohannesTz/SVGtoVector">Project Repo</a>
+            </li>
+            <li>
               <a target="_blank" href="https://yohannestz.netlify.app/">Profile</a>
             </li>
             <li>
