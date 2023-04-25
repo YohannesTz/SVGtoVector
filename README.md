@@ -1,4 +1,18 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## SVGtoVector
+
+a simple web tool to convert scalable vector graphics to android's vector asset. I know 
+[there exists](https://developer.android.com/studio/write/vector-asset-studio) similar feature on 
+[Android Studio](https://developer.android.com/studio). but sometimes you might not want to fire up
+AS or just tired of opening dialogs (I know I am 😁). this is my first NextJs app so go easy on me. pull requests are welcome
+
+based on [svg2vectordrawable](https://github.com/Ashung/svg2vectordrawable/)
+
+## Todo
+
+- Drawabable tint
+- Syntax Highlighting
+- Preview
+- Upload and download as file
 
 ## Getting Started
 
