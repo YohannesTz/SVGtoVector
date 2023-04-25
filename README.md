@@ -9,7 +9,7 @@ based on [svg2vectordrawable](https://github.com/Ashung/svg2vectordrawable/)
 
 ## Todo
 
-- Drawabable tint
+- Drawable tint
 - Syntax Highlighting
 - Preview
 - Upload and download as file
