@@ -80,16 +80,10 @@ export default function Home() {
               <a target="_blank" href="https://github.com/YohannesTz/SVGtoVector">Project Repo</a>
             </li>
             <li>
-              <a target="_blank" href="https://yohannestz.netlify.app/">Profile</a>
+              <a target="_blank" href="https://yohannestz.com/">Profile</a>
             </li>
             <li>
               <a target="_blank" href="https://github.com/yohannesTz">Github</a>
-            </li>
-            <li>
-              <a target="_blank" href="https://t.me/thoughts_when_its_raining">Telegram Channel</a>
-            </li>
-            <li>
-              <a target="_blank" href="https://t.me/yohan_nes">Telegram</a>
             </li>
           </ul>
         </div>
